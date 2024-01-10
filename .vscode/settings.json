@@ -1,4 +1,45 @@
 {
+  "editor.tokenColorCustomizations": {
+    "comments": "#00000052",
+    "keywords": "#29ffb8",
+    "variables": "#d9ff00",
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "foreground": "#00000052",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "variable.other.readwrite",
+        "settings": {
+          "foreground": "#f700ff",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "entity.name.function",
+        "settings": {
+          "foreground": "#ec304f",
+          "fontStyle": "bold "
+        }
+      },
+      {
+        "scope": "entity.other",
+        "settings": {
+          "foreground": "#307bec",
+          "fontStyle": "bold "
+        }
+      }
+    ],
+    "numbers": "#ffffff",
+    "strings": "#808080",
+    "functions": "#ff2600",
+    "types": "#f3f222"
+  },
+
+  "color-highlight.enable": true,
   "workbench.colorCustomizations": {
     "editor.background": "#323232",
     "terminal.background": "#000",

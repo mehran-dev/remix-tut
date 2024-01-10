@@ -12,7 +12,7 @@ export default function Contact() {
     notes: "Some notes",
     favorite: true,
   };
-
+  // comment
   return (
     <div id="contact">
       <div>
