@@ -45,18 +45,19 @@
     "terminal.background": "#000",
 
     "sideBar.background": "#fff",
-    "sideBar.foreground": "#002547",
+    "sideBar.foreground": "#000000",
     "sideBar.dropBackground": "#ff0000",
-    "sideBarTitle.foreground": "#ff0000",
+    "sideBarTitle.foreground": "#000000",
+
     "sideBar.border": "#2a7200",
 
     "sideBarSectionHeader.background": "#dfdf8f",
     "sideBarSectionHeader.foreground": "#000000",
-    "sideBarSectionHeader.border": "#c2a505",
+    "sideBarSectionHeader.border": "#959c2a",
 
     "tab.hoverBackground": "#222",
-    "tab.activeBackground": "#f3f3f0",
-    "tab.activeForeground": "#fff000",
+    "tab.activeBackground": "#959c2a",
+    "tab.activeForeground": "#000",
     "tab.hoverBorder": "#ff0000",
     "tab.hoverForeground": "#ff0000",
     "tab.inactiveBackground": "#444",
